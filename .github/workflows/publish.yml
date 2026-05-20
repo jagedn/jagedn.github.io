@@ -27,7 +27,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libgbm-dev ghostscript poppler-utils
+        if: ${{ runner.os == 'Linux' }}
 
       - name: Generate
         run: ./build.sh
