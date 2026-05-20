@@ -1,0 +1,141 @@
+= Jorge Aguilera González
+Jorge Aguilera González
+
+[.info]
+== !
+
+=== Contact
+
+[contact]
+- image:mail.svg[role="picto"] jorge@edn.es
+- image:blog.svg[role="picto"] https://blog.jagedn.dev
+
+==== Knowledge
+
+- 30+ years as Developer
+- C++, *Java*, Groovy, PHP
+- *Javascript*, TypeScript, NodeJS, Vue
+- Maven, *Gradle*
+- Git (GitHub, Gitlab, BB)
+- *PostgreSQL*, MySQL, CosmosDB
+- *Kafka*, RabbitMQ, SQS
+- *Docker, Kubernetes*
+- *AWS*, Google Cloud, Azure
+- Asciidoctor
+
+==== Business Areas
+
+- Retail
+- Banking
+- eInvoice
+- Bioinformatic
+
+
+==== OpenSource Projects
+
+- K8s Caos Operator
+- Gradle extensions
+- Google DSL (Groovy)
+- Asciidoctor Extensions
+- ...
+
+==== Publications
+
+101-groovy-scripts blog
+
+Author of eBook "Tutorial
+Básico de Asciidoctor"
+
+Active member of
+MadridGuG, Codemotion and
+esLibre
+
+Speaker at ApacheConf
+
+==== Education
+
+- 2020 Degree in Data Science
+(in course)
+
+- 2009-2019 Degree in Computer
+Engineering (UOC)
+
+==== Languages
+
+- Spanish (native)
+- English
+
+[.chronologie]
+== !
+
+=== Principal Software Architect
+
+Accomplished Software Architect and Technical Leader with over 30 years of experience driving innovation across diverse industries. 
+Proven track record of leading digital transformations, migrating complex monoliths to scalable microservices, and mentoring high-performance teams. 
+Expert in the JVM ecosystem (Java, Groovy, Micronaut, Quarkus) and modern cloud-native infrastructures (AWS, K8s, Terraform). 
+
+Active contributor to the tech community as a frequent speaker at international conferences like ApacheConf and Codemotion.
+
+- **Languages**: Java, Groovy, C, JavaScript (ES6+), Kotlin.
+
+- **Frameworks**: Spring Boot/Batch/Integration, Micronaut, Quarkus, Grails, Vue.js.
+
+- **Cloud & DevOps**: AWS, GCP, Kubernetes, Docker, Terraform, Prometheus.
+
+- **Architecture**: SOA, REST, GraphQL, BFF (Backend for Frontend), Event-Driven (RabbitMQ/Kafka).
+
+==== Professional experience
+
+*Software Architect* at Incremental Steps (2024)
+
+- Leveraged Terraform to design a resilient cloud environment optimized for AI services, 
+allowing an international travel agency to automate customer insights and dynamic pricing through scalable ML pipelines.
+
+- Spearheaded digital transformation initiatives for enterprise clients, transitioning legacy 
+monolithic systems to modern microservices architectures while enforcing Clean Code and robust Code Review standards.
+
+*Software Architect & DevOps Lead* Baraka (Investment US Stock) Dec 2022 – Jan 2024
+
+_Context_: Led the infrastructure evolution for a US-based stock investment platform, 
+moving from a rigid container setup to a scalable orchestration model.
+
+- *Cloud Migration*: Orchestrated the end-to-end migration of a NodeJS ecosystem from AWS ECS to a Kubernetes-based microservices architecture, increasing system resilience and deployment frequency.
+- *API Management*: Designed and implemented a robust APISIX API Gateway layer to centralize authentication, authorization, and intelligent request routing.
+- *Infrastructure as Code* (IaC): Automated the deployment and monitoring stack (Prometheus, OpenSearch) using Terraform, reducing environment setup time and improving observability.
+
+*Senior Software Engineer* at Seqera (Biotech company) Nov 2021, Dec 2022
+
+- Contributed to Nextflow, the leading open-source workflow orchestration engine for bioinformatics. 
+Enhanced the DSL with new features and actively supported the global open-source community.
+
+*Principal Software Architect* | Tymit (UK FinTech) March 2020, Nov 2021
+
+_Context_: Acted as the technical authority for a high-growth FinTech, 
+overseeing the transition from a monolithic core to a distributed Backend-for-Frontend (BFF) model.
+
+- *Architecture* Evolution: Defined the roadmap and led the execution of a Monolith-to-Microservices migration, utilizing Grails and Quarkus to optimize performance.
+
+- *BFF* Implementation: Engineered a new Backend-for-Frontend (BFF) service layer, streamlining the communication between mobile clients and core services, which improved mobile app load times and API consistency.
+
+- *Cross-Team Leadership*: Bridged the gap between product requirements and technical execution, collaborating closely with mobile and backend teams to align API contracts and delivery timelines.
+
+
+*Software Architect* in B2Boost (2018) eInvoice company
+
+- Enhanced development methodologies and system design within a multidisciplinary team. 
+Architected microservices using Grails and Angular, while coordinating technical tasks and developing core features
+
+*Software Engineer* at Enxendra (2016) eInvoice company
+
+- Led the architectural evolution from a monolith to microservices using Spring Boot and Groovy/Grails without service disruption. 
+
+- Designed and implemented the SII (Immediate Supply of Information) solution, handling millions of daily invoices for the AEAT via Spring Integration and RabbitMQ
+
+*Software Consultant* at Puravida Software (2010)
+
+- Offering my services as Software Consultant to many different customers
+
+*Co-founder* EDN partner of NCR
+
+- For 12 years, I led various teams of developers in different projects of varied characteristics in the banking
+area for NCR (ATM, Batch transactions, ...)
