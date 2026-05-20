@@ -37,7 +37,6 @@ jobs:
       - name: Generate
         run: |
           ./build.sh
-          cp index.html out/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
